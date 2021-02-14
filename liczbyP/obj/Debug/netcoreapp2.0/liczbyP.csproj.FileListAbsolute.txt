@@ -1,0 +1,11 @@
+/Users/michalm/Projects/liczbyP/liczbyP/bin/Debug/netcoreapp2.0/liczbyP.deps.json
+/Users/michalm/Projects/liczbyP/liczbyP/bin/Debug/netcoreapp2.0/liczbyP.runtimeconfig.json
+/Users/michalm/Projects/liczbyP/liczbyP/bin/Debug/netcoreapp2.0/liczbyP.runtimeconfig.dev.json
+/Users/michalm/Projects/liczbyP/liczbyP/bin/Debug/netcoreapp2.0/liczbyP.dll
+/Users/michalm/Projects/liczbyP/liczbyP/bin/Debug/netcoreapp2.0/liczbyP.pdb
+/Users/michalm/Projects/liczbyP/liczbyP/obj/Debug/netcoreapp2.0/liczbyP.csprojAssemblyReference.cache
+/Users/michalm/Projects/liczbyP/liczbyP/obj/Debug/netcoreapp2.0/liczbyP.csproj.CoreCompileInputs.cache
+/Users/michalm/Projects/liczbyP/liczbyP/obj/Debug/netcoreapp2.0/liczbyP.AssemblyInfoInputs.cache
+/Users/michalm/Projects/liczbyP/liczbyP/obj/Debug/netcoreapp2.0/liczbyP.AssemblyInfo.cs
+/Users/michalm/Projects/liczbyP/liczbyP/obj/Debug/netcoreapp2.0/liczbyP.dll
+/Users/michalm/Projects/liczbyP/liczbyP/obj/Debug/netcoreapp2.0/liczbyP.pdb
